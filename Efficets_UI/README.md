@@ -6,10 +6,6 @@
 
 粒子效果的实现：使用Shader和unity的粒子系统(Particle System)
 
-测试图片
-
-![](EfficetsGif/22222.png)
-
 
 
 ## 效果展示
